@@ -24,7 +24,7 @@ msgstr "Ожидайте"
 
 #: Settings.ui:51
 msgid "Checking idle interval (seconds)"
-msgstr "Проверка интервала простоя (секунды)"
+msgstr "Проверка интервала простоя (сек.)"
 
 #: Settings.ui:140
 msgid "Enable bluetooth when menu opened"
